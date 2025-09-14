@@ -72,7 +72,7 @@ function App() {
             onClick={handleClear}
             style={{ gridColumn: "span 4", background: "red", color: "white" }}
           >
-            Clear
+            Koustubh
           </button>
         </div>
       </div>
